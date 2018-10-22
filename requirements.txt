@@ -1,0 +1,4 @@
+scrapy==1.5
+flake8==3.5.0
+scrapy-frontera==0.2.4
+hcf-backend==0.2.4

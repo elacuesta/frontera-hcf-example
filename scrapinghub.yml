@@ -1,0 +1,7 @@
+endpoints:
+    default: https://dash.scrapinghub.com/api/
+projects:
+    default: 353761
+version: GIT
+stacks:
+    default: scrapy:1.5-py3
